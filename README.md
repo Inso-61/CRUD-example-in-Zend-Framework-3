@@ -9,6 +9,7 @@ Issue du tutoriel officiel "In Depth Tutorial".
 Vous devez posséder git et composer sur votre machine
 
 > git clone
+
 > composer install
 
 #### Bdd
