@@ -32,7 +32,7 @@ INSERT INTO posts (title, text) VALUES ('Blog #4', 'Welcome to my fourth blog po
 INSERT INTO posts (title, text) VALUES ('Blog #5', 'Welcome to my fifth blog post');
 ```
 
-Le Db configuré par défaut dans le zip, dans ** config/autoload/global.php **
+Le Db configuré par défaut dans le zip, dans **config/autoload/global.php**
 
 ```
 'db' => [
